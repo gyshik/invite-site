@@ -1,0 +1,140 @@
+* {
+	padding: 0;
+	font-family: 'Courier New', Arial, sans-serif;
+	text-align: center;
+}
+.wrap{
+	position: relative;
+	left: 0px;
+	top: -1300px;
+}
+.container2 {
+	max-width: 720px;
+	margin: 60px auto;
+	text-align: center;
+	position: relative;
+	top: 1280px;
+	left: 0px;
+}
+	h1 {
+	font-size: 40px;
+}
+.countdown{
+	margin: 40px 60px;
+	display: flex;
+	justify-content: space-between;
+	span{
+		display: block;
+		font-size: 50px;
+		font-weight: 700;
+	}
+}
+
+.text1{
+	position: relative;
+	top: -1080px;
+	left: 0px;
+}
+
+.text2{
+	position: relative;
+	top: -1020px;
+	left: 0px;
+}
+
+.text3{
+	position: relative;
+	top: -900px;
+	left: 0px;
+}
+
+.text4{
+	position: relative;
+	top: -250px;
+	left: 0px;
+}
+
+.text5{
+	position: relative;
+	top: -750px;
+	left: 0px;
+}
+
+.ag{
+	position: relative;
+	top: -60px;
+	left: 0px;
+}
+
+.bg{
+	position: relative;
+	top: -160px;
+	left: 0px;
+}
+
+.paint{
+	position: absolute;
+	top: -40px;
+	left: -50px;
+}
+
+.clock{
+	position: relative;
+	top: 380px;
+	left: -65px;
+}
+
+.roof{
+    position: relative;
+    top: -40px; /* Adjust as needed */
+    left: 0px; /* Adjust as needed */
+}
+
+.wh{
+    position: relative;
+    top: -600px;
+    left: 15px; 	
+}
+
+.calendar{
+	position: relative;
+	top: 285px;
+	left: 75px;
+}
+
+.qr{
+	position: relative;
+	top: -350px;
+	left: 0px;
+}
+
+.container {
+	height: 1200px;
+    width: 500px; /* Set your desired width */
+    margin: 0 auto; /* Center the container horizontally */
+}
+
+.all{
+
+}
+
+@media (min-width: 768px) {
+.container{
+	position: relative;
+	left: 0px;
+
+.paint{
+	padding-left: 0px;
+}
+
+@media (min-width: 480px) {
+
+
+	
+}
+
+@media (min-width: 320px) {
+
+
+	
+}
